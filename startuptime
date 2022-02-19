@@ -1,0 +1,65 @@
+
+
+times in msec
+ clock   self+sourced   self:  sourced script
+ clock   elapsed:              other lines
+
+000.006  000.006: --- NVIM STARTING ---
+000.206  000.200: locale set
+000.447  000.241: inits 1
+000.457  000.010: window checked
+000.483  000.026: parsing arguments
+000.517  000.034: expanding arguments
+000.551  000.034: inits 2
+000.913  000.362: init highlight
+000.914  000.001: waiting for UI
+001.545  000.632: done waiting for UI
+001.557  000.012: initialized screen early for UI
+001.650  000.010  000.010: sourcing /usr/share/nvim/archlinux.vim
+001.653  000.030  000.020: sourcing /etc/xdg//nvim/sysinit.vim
+006.961  005.295  005.295: sourcing /home/atakanos/.config/nvim/init.lua
+006.971  000.089: sourcing vimrc file(s)
+012.091  000.016  000.016: sourcing /usr/share/vim/vimfiles/ftdetect/PKGBUILD.vim
+012.484  005.488  005.472: sourcing /usr/share/nvim/runtime/filetype.vim
+012.671  000.028  000.028: sourcing /usr/share/nvim/runtime/ftplugin.vim
+012.844  000.023  000.023: sourcing /usr/share/nvim/runtime/indent.vim
+024.928  000.323  000.323: sourcing /usr/share/nvim/runtime/syntax/syncolor.vim
+025.518  000.143  000.143: sourcing /usr/share/nvim/runtime/syntax/syncolor.vim
+037.793  024.671  024.205: sourcing /home/atakanos/.local/share/nvim/site/pack/packer/start/gruvbox.nvim/colors/gruvbox.vim
+037.896  024.876  000.205: sourcing /usr/share/nvim/runtime/syntax/synload.vim
+037.975  024.992  000.116: sourcing /usr/share/nvim/runtime/syntax/syntax.vim
+038.822  000.351  000.351: sourcing /usr/share/nvim/runtime/plugin/gzip.vim
+038.846  000.009  000.009: sourcing /usr/share/nvim/runtime/plugin/health.vim
+038.913  000.056  000.056: sourcing /usr/share/nvim/runtime/plugin/man.vim
+039.294  000.160  000.160: sourcing /usr/share/nvim/runtime/pack/dist/opt/matchit/plugin/matchit.vim
+039.386  000.460  000.300: sourcing /usr/share/nvim/runtime/plugin/matchit.vim
+039.518  000.117  000.117: sourcing /usr/share/nvim/runtime/plugin/matchparen.vim
+039.857  000.326  000.326: sourcing /usr/share/nvim/runtime/plugin/netrwPlugin.vim
+039.996  000.008  000.008: sourcing /home/atakanos/.local/share/nvim/rplugin.vim
+040.002  000.122  000.114: sourcing /usr/share/nvim/runtime/plugin/rplugin.vim
+040.091  000.077  000.077: sourcing /usr/share/nvim/runtime/plugin/shada.vim
+040.132  000.021  000.021: sourcing /usr/share/nvim/runtime/plugin/spellfile.vim
+040.264  000.114  000.114: sourcing /usr/share/nvim/runtime/plugin/tarPlugin.vim
+040.369  000.085  000.085: sourcing /usr/share/nvim/runtime/plugin/tohtml.vim
+040.412  000.017  000.017: sourcing /usr/share/nvim/runtime/plugin/tutor.vim
+040.574  000.142  000.142: sourcing /usr/share/nvim/runtime/plugin/zipPlugin.vim
+040.940  000.292  000.292: sourcing /home/atakanos/.config/nvim/plugin/packer_compiled.lua
+041.135  001.446: loading plugins
+041.322  000.049  000.049: sourcing /home/atakanos/.local/share/nvim/site/pack/packer/start/lush.nvim/plugin/lush.vim
+041.759  000.334  000.334: sourcing /home/atakanos/.local/share/nvim/site/pack/packer/start/nlua.nvim/plugin/nlua.vim
+041.906  000.387: loading packages
+042.054  000.148: loading after plugins
+042.064  000.010: inits 3
+042.938  000.874: reading ShaDa
+043.888  000.057  000.057: sourcing /usr/share/nvim/runtime/ftplugin/lua.vim
+044.337  000.230  000.230: sourcing /home/atakanos/.local/share/nvim/site/pack/packer/start/nlua.nvim/after/ftplugin/lua.vim
+046.043  000.034  000.034: sourcing /usr/share/nvim/runtime/indent/lua.vim
+047.266  000.794  000.794: sourcing /usr/share/nvim/runtime/syntax/lua.vim
+048.158  004.104: opening buffers
+048.175  000.017: BufEnter autocommands
+048.178  000.002: editing files in windows
+048.232  000.055: VimEnter autocommands
+048.235  000.002: UIEnter autocommands
+048.236  000.001: before starting main loop
+049.172  000.936: first screen update
+049.174  000.003: --- NVIM STARTED ---
